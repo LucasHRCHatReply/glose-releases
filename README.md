@@ -10,7 +10,7 @@ Ce dépôt ne contient que les versions à installer. Le code source n'est pas p
 ## Ce qu'il faut
 
 - un Mac à puce Apple (M1 ou plus récent) ;
-- macOS 26 ou plus.
+- macOS 15 ou plus (le verre « Liquid Glass » sous macOS 26, un fond translucide du système en dessous).
 
 ## Installer
 
